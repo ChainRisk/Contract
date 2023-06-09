@@ -1,5 +1,3 @@
-# README
-
 ## ChainRisk NFT Contract
 
 This repository contains the Solidity contract code for the ChainRisk project. The ChainRisk contract is a unique NFT contract that leverages Chainlink technology to store credit ratings from multiple agencies in a dynamic NFT.
